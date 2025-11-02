@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktristan_wedding=self.webpackChunktristan_wedding||[]).push([[125],{5722:function(e,t,n){n.r(t);var a=n(758);t.default=()=>a.createElement(a.Fragment,null,a.createElement("h1",null,"NOT FOUND"),a.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}]);
+//# sourceMappingURL=component---src-pages-404-js-ee86d91aeb7ccd3ca61d.js.map
